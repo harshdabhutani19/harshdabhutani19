@@ -44,12 +44,6 @@ SCIENCE     Transit Photometry · TESS · NASA MAST · Statistical Analysis
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## Leadership signal
-
-- **Vice President**, Entrepreneurship Lab, ANDC — led 30+ members across events, outreach, partnerships, and operations.
-- **Former General Secretary**, Entrepreneurship Lab, ANDC — coordinated execution, communications, and organizational follow-through.
-- **Project Coordinator**, Enactus ANDC — progressed from Public Relations Coordinator into project and field responsibilities.
-
 ---
 
 <p align="center"><em>Open to data analytics, operations, Founder's Office, AI quality, and talent-technology opportunities.</em></p>
